@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dc5fd63f886f614e879cf7ab08bed75, type: 3}
+  m_Name: Ques9
+  m_EditorClassIdentifier: 
+  questionText: "Qu\u1ED1c gia Austria thu\u1ED9c ch\xE2u l\u1EE5c n\xE0o?\r\nA.
+    Ch\xE2u \xC2u\r\nB. Ch\xE2u \u0110\u1EA1i D\u01B0\u01A1ng\r\nC. Ch\xE2u \xC1\r\nD.
+    Ch\xE2u M\u1EF9\r"
+  answers:
+  - A
+  - B
+  - C
+  - D
+  correctAnswerIndex: 0
+  rightOperation: 0
+  rightValue: 5
+  falseOperation: 1
+  falseValue: 5

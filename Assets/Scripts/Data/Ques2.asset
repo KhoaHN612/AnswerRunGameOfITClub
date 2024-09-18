@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dc5fd63f886f614e879cf7ab08bed75, type: 3}
+  m_Name: Ques2
+  m_EditorClassIdentifier: 
+  questionText: "GITC l\xE0 vi\u1EBFt t\u1EAFt cho c\u1EE5m t\u1EEB n\xE0o:\nA. Google
+    Information Technology Clubs\r\nB. Greenwich Infomation Technology Club\r\nC.
+    Google Information Technology Club\r\nD. Greenwich Information Technology Club\r\n"
+  answers:
+  - A
+  - B
+  - C
+  - D
+  correctAnswerIndex: 3
+  rightOperation: 2
+  rightValue: 2
+  falseOperation: 3
+  falseValue: 2

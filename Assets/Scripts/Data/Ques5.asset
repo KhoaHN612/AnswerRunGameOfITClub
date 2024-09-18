@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dc5fd63f886f614e879cf7ab08bed75, type: 3}
+  m_Name: Ques5
+  m_EditorClassIdentifier: 
+  questionText: "Nh\u1EEFng ban ch\xEDnh c\u1EE7a GITC t\xEAn g\xEC?\r\nA. Technical
+    v\xE0 Non-Technical\r\nB. Technical v\xE0 Social Team\r\nC. Technical v\xE0 CoreTeam\r\nD.
+    Technical v\xE0 Marketing Team\r"
+  answers:
+  - A
+  - B
+  - C
+  - D
+  correctAnswerIndex: 0
+  rightOperation: 0
+  rightValue: 10
+  falseOperation: 1
+  falseValue: 10
